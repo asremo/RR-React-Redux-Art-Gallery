@@ -1,5 +1,5 @@
 {
-  "name": "r_redux_darkmode",
+  "name": "r_redux_thunk",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
